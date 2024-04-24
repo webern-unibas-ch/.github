@@ -1,4 +1,4 @@
-# Welcome to the Anton Webern Gesamtausgae! 🙌 
+# Welcome to the Anton Webern Gesamtausgabe! 🙌 
 
 The Anton Webern Gesamtausgabe (AWG) is a critical-historical edition of Anton Webern’s oeuvre. This edition makes his work freely accessible to the public in a form that is academically appropriate and serves musical practice. The edition includes not only the works that Webern himself brought to print, but also currently unpublished variants of his works, as well as compositions unpublished during his lifetime, fragments, sketches and arrangements. 
 
