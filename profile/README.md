@@ -13,7 +13,7 @@ Here is a quick overview of our frequently accessed repositories and their conte
 - [awg-app](https://github.com/webern-unibas-ch/awg-app): The main repository that includes the source for the AWG online edition app.
 - [awg-utils](https://github.com/webern-unibas-ch/awg-utils): The repository that holds some utility scripts for conversions, etc.
 - [awg-website](https://github.com/webern-unibas-ch/awg-website): The repository that holds the static code of the AWG project website.
-- [awg-ng-website](https://github.com/webern-unibas-ch/awg-ng-website): The repository that holds an experimental re-coding of the AWG project website in Angular (beta).
+- [rdfstore-js](https://github.com/webern-unibas-ch/rdfstore-js): The AWG-maintained fork of [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js), an RDF store with SPARQL support that powers the graph view of the online edition.
 
 ## 📋 Data 
 
